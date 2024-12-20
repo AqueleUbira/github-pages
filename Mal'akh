@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+        }
+        footer {
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #555;
+        }
+        .content {
+            margin: 20px 0;
+        }
+        a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+ 
+    <!-- Conteúdo principal -->
+    <div class="content">
+        <p>O rio, sereno, guarda a memória,</p>
+<p>Curvas lentas, esculpindo a história.</p>  
+<p>Suas águas profundas, de tom ancestral,</p> 
+<p>Guiam o curso do tempo, um ritual.</p>
+<p> 
+</p>
+<p>A chuva, inquieta, dança ao cair,</p>
+<p>Brilha no instante, pronta a surgir.</p>
+<p>Renova a terra com cada gota,</p> 
+<p>Semeia sonhos na alma que brota.</p>
+<p> 
+</p>
+<p>O rio acolhe a chuva em seu leito,</p>
+<p>E a chuva renova o rio a correr.</p>
+<p>Entre eles, um ciclo eterno,</p>
+<p>De ensinar, crescer e aprender.</p>
+    </div>
+ 
+    <!-- Rodapé -->
+    <footer>
+        <p>...</p>
+    </footer>
+</body>
+</html>
